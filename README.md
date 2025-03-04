@@ -2,6 +2,8 @@
 
 + some built-in functions
 + color drop
++ download work
++ copy all code
 
 ### UI
 + a js code editor
